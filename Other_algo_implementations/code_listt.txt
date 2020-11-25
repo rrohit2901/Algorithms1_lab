@@ -1,0 +1,7 @@
+1.  bin_tree - Implementation of binary tree algorithms
+2.  close_dist - Implementation of closest disnr=tance between points algorithm
+3.  graph_temp - Simple functions and implementation of graph
+4.  ll_template - Simple functions of linked list
+5.  median - Finding median using median of medians algorithms
+6.  merge_sort - Sorting using merge and quick sort algorithm
+7.  Poly_mul - Polynomial multiplication using divide and conquer algorithms
